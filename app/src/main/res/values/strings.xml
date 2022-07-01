@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PushUpsApp</string>
+
+    <string name="title" translatable="false">PushUps</string>
+    <string name="training">Training</string>
+    <string name="goals">Goals</string>
+    <string name="statistics">Statistics</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="type">Type:</string>
+    <string name="typeET">Classic</string>
+    <string name="reps">Repetitions</string>
+    <string name="progress">Progress</string>
+    <string name="pass">Pass</string>
+    <string name="days">Days</string>
+    <string name="goal">Goal</string>
+    <string name="fromTheTarget"> from the target </string>
+    <string name="done">Done</string>
+</resources>

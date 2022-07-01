@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PushUpsApp</string>
+    <string name="training">Тренировка</string>
+    <string name="goals">Цели</string>
+    <string name="statistics">Статистика</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="type">Тип:</string>
+    <string name="typeET">Классика</string>
+    <string name="reps">Повторения</string>
+    <string name="progress">Прогресс</string>
+    <string name="pass">Прошедшие</string>
+    <string name="days">дни</string>
+    <string name="goal">Цель</string>
+    <string name="fromTheTarget">от цели</string>
+    <string name="done">Выполнено</string>
+</resources>
